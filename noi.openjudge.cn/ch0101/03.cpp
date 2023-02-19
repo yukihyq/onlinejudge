@@ -1,3 +1,5 @@
+// http://noi.openjudge.cn/ch0101/solution/38643966/
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
